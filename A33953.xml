@@ -1,0 +1,175 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A word in season to a distracted and troubled people, or, Some grounds tending to unity and a settling of the minds (in peace) of all those who are the sons of peace faithfully and tenderly presented in this our day of peace, though a day of trouble in many hearts, for the preventing (if possible it may be) the breakings forth of another war, or that if any such thing should be, yet that those who profess to follow the Lord may not be the causers of it / written by Thomas Collier.</title>
+            <author>Collier, Thomas, fl. 1691.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1655</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 18 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A33953</idno>
+            <idno type="STC">Wing C5302</idno>
+            <idno type="STC">ESTC R24774</idno>
+            <idno type="EEBO-CITATION">08484010</idno>
+            <idno type="OCLC">ocm 08484010</idno>
+            <idno type="VID">41392</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A33953)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 41392)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1252:10)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A word in season to a distracted and troubled people, or, Some grounds tending to unity and a settling of the minds (in peace) of all those who are the sons of peace faithfully and tenderly presented in this our day of peace, though a day of trouble in many hearts, for the preventing (if possible it may be) the breakings forth of another war, or that if any such thing should be, yet that those who profess to follow the Lord may not be the causers of it / written by Thomas Collier.</title>
+                  <author>Collier, Thomas, fl. 1691.</author>
+               </titleStmt>
+               <extent>[1], 10 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Henry Hills,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1655.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Union Theological Seminary Library, New York.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Peace --  Religious aspects.</term>
+               <term>Peace --  Biblical teaching.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-05</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2010-05</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:41392:1"/>
+            <pb facs="tcp:41392:1" rendition="simple:additions"/>
+            <p>A Word in Seaſon TO A DISTRACTED and TROUBLED PEOPLE.</p>
+            <p>OR, Some Grounds tending to Unity, and a ſettling of the minds (in peace) of all thoſe who are the Sons of Peace.</p>
+            <p>Faithfully and tenderly preſented in this OUR Day of Peace, Though a day of trouble in many hearts; For the preventing (if poſſible it may be) the brea<g ref="char:EOLhyphen"/>kings forth of another war, or that if any ſuch thing ſhould be, yet that thoſe who profeſs to follow the Lord may not be the Cauſers of it.</p>
+            <p>Written by THOMAS COLLIER.</p>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>Henry Hills,</hi> and are to be ſold at his Houſe at the ſign of <hi>Sir John Old-Caſtle,</hi> neer <hi>Py-Corner,</hi> MDCLV.</p>
+         </div>
+         <div type="preface">
+            <pb facs="tcp:41392:2" rendition="simple:additions"/>
+            <pb facs="tcp:41392:2"/>
+            <head>The Preface.</head>
+            <p>
+               <seg rend="decorInit">R</seg>Eader, take theſe few lines into thy Conſideration, and although it is brief and plain, it may prove uſefull, through the bleſſing of God, and if it be a means to cool thy fiery zeal, in a way of un<g ref="char:EOLhyphen"/>adviſed contention, you will have no cauſe of repen<g ref="char:EOLhyphen"/>ting of thy change. Take it as it is, for with much affection to thy peace have I done it. And do not blame me for brevity or plaineſs, for it is a ſudden work, not thought on many hours before it was done. My ſenſe of the danger ſince I came into the City hath drawn this from me, the Lord make it uſeful to the quieting of the minds of his People, ſo will God have the Glory, and they the comfort, and I have my end. Farewel.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:41392:3"/>
+            <pb n="1" facs="tcp:41392:3"/>
+            <head>A WORD In ſeaſon to a diſtracted and trou<g ref="char:EOLhyphen"/>bled People.</head>
+            <p>MY Friends, you who do profeſs the name of the Lord, according to your apprehen<g ref="char:EOLhyphen"/>ſions, in your ſeveral conditions, the conſideration of the great diſcontents that are in and amongſt ſome of you, even ready to break forth into a new flame and fire of War and blood, is that which much grieves my heart, and in a deep ſence of this miſery, have I undertaken to preſent theſe few enſuing grounds unto you, for prevention of thoſe ſad undertakings intended by ſome (as is manifeſtly declared) and I do beſeech all that love and fear the Lord, not only to have their minds fix<g ref="char:EOLhyphen"/>ed on thoſe (by them) ſuppoſed grounds of conten<g ref="char:EOLhyphen"/>tion and diviſion, but to read and weigh impartially what I have here preſented, and I doubt not but that it will ſilence and quickly put a period to ſuch inten<g ref="char:EOLhyphen"/>tions or undertakings, as I do perceive were in the minds of ſome; and in this I do appeal unto the Lord, that my end in preſenting theſe lines, is not ei<g ref="char:EOLhyphen"/>ther fear or flattery of men, but as the diſcharge of
+<pb n="2" facs="tcp:41392:4"/>my duty to the Lord, his people, and my Country, to whom I ow all that I have.</p>
+            <p>The firſt ground I ſhall preſent unto you, is, That the Name and honour of the Lord is concerned in it; which ſhould be more pretious to his people than their lives and liberties: and it is the duty, and ſhould be the practice of all the Saints in all their a<g ref="char:EOLhyphen"/>ctions to do all to the glory of God (which I ſuppoſe will be eaſily granted) But the queſtion may be, how it will appear that the intentions of ſome in the fo<g ref="char:EOLhyphen"/>menting a new War, will be to the diſhonor of God, ſeeing that the common right and freedom, and ma<g ref="char:EOLhyphen"/>king good of promiſes and engagements, is the pre<g ref="char:EOLhyphen"/>tended cauſe of it, and the diſhonor of God in the world, by the unfaithfulneſs of profeſſing men, that are covenant breakers? To which I anſwer. 1. That the name of the Lord is much concerned in it. Have not the Wars of <hi>England,</hi> and the works of God done amongſt us by it, been the worlds wonder? And have not the profeſſing people been the inſtru<g ref="char:EOLhyphen"/>ments in the hand of God in the work, and have been taken notice of ſo to be by all, both amongſt us and round about us? And would it not be a great advan<g ref="char:EOLhyphen"/>tage to the Enemy to reproach and blaſpheme, after ſo long a conteſt, and ſuch ſucceſs from the Lord, at laſt to be ſheathing our Swords in each others bow<g ref="char:EOLhyphen"/>els? What will the World conclude from hence, but that there was no finger of the Lord at all with us, no Divine hand over-powring and over-ruling? or elſe at beſt, that for ſin and iniquity God hath ſuf<g ref="char:EOLhyphen"/>fered you to deſtroy one another? Oh conſider, that its the moſt eminent token of Gods diſpleaſure a<g ref="char:EOLhyphen"/>gainſt
+<pb n="3" facs="tcp:41392:4"/>a people, when Friends, Companions, Bre<g ref="char:EOLhyphen"/>thren, ſhall be found lifting up the Sword each againſt other. <hi>Moſes</hi> was tender of the honour of the Lord, and preferred it before his own intereſt, <hi>Numb.</hi> 14.13. when the Lord told him that he would deſtroy the children of <hi>Iſrael</hi> for their rebellion, and make of him a greater people than they, but <hi>Moſes</hi> ſaid, Then <hi>the Egyptians will hear, and the Nations will hear, and ſay, that the Lord was not able to bring his people into the Land of</hi> Canaan, <hi>therefore hath he deſtroyed them in the Wilderneſs.</hi> Oh think on this, what will become of the great name of the Lord, that hath been ſo e<g ref="char:EOLhyphen"/>minently manifeſt amongſt us, if now at laſt the fire of contention ſhould conſume us?</p>
+            <p n="2">2. I anſwer, that the Covenants and ingagements are not alltogether broken, but much we do enjoy, as to the ſubſtance of what was expected, though not in the formality of it.</p>
+            <p n="3">3. If ſuch a thing be in good earneſt, as to parti<g ref="char:EOLhyphen"/>culars, yet the breach of promiſe will light upon him or them moſt principally concerned in it, and not upon every individual perſon; not upon thoſe who cannot help it: and therefore it is not their duty to be meddling in a way of conteſting wars; ſo the re<g ref="char:EOLhyphen"/>medy they ſeem to take, will prove more diſhonou<g ref="char:EOLhyphen"/>rable to God, and more deſtructive to themſelves and others, than the diſeaſe, were it granted to be ſo bad as by ſome is ſuppoſed.</p>
+            <p n="4">4. If the honor of the Lord doth conſiſt, any part of it, in the free paſſage of the Goſpel, and a freedom for his people to worſhip him according to his Will, he is as much, if not more, honored in this particu<g ref="char:EOLhyphen"/>lar,
+<pb n="4" facs="tcp:41392:5"/>than I could or can yet ſee in or under any other way of Government.</p>
+            <p n="2">2. Conſider, that as ſuch a practice will be diſho<g ref="char:EOLhyphen"/>nourable to the Lord, ſo it will undoubtedly prove deſtructive to your ſelves and others. Oh be not found at laſt to be ſelf-deſtroyers; you will deſtroy your ſelves, and families, and may ſhed the blood of others, and hazard the cauſe of God, and the Nation it ſelf, if the Lord prevent you not in your Deſigns; truly the very thoughts of it is dreadful unto me, upon both theſe accounts, the diſhonor of God, and the ſad events that are like to follow; and that you who profeſs to know God, ſhould deſire to kindle ſuch a fire; certainly if it be kindled then it will burn and conſume.</p>
+            <p n="3">3. There is no readier way can be imagined to ac<g ref="char:EOLhyphen"/>compliſh the Enemies deſign than ſelf-diviſion; I am confident that there is no other way by which it can be accompliſhed, and therefore give not that away at laſt, by frowardneſs, contention, and diviſion, that could nere be taken from you by violence, therin will you ſhew not only your want of wiſdom, but your weakneſs if not your wickedneſs to the whole world; and it is the very high way to loſe all.</p>
+            <p n="4">4. The Lords people ſhould not be men of blood, I am ſure Religion doth not teach it, but rather to ſeek the good of all, to pray for all, but to deſtroy none. It cannot be imagined that the endeavouring to turn things upſide down, can be without the ſhedding of much blood, therefore its much better to reſt thank<g ref="char:EOLhyphen"/>ful to God for what we have, than to adventure ſuch hazardous and bloody deſigns, and it may be with
+<pb n="5" facs="tcp:41392:5"/>loſs of all; the blood-thirſty, and deceitfull man ſhall not live out half his daies: Oh therefore mani<g ref="char:EOLhyphen"/>feſt your ſelves (all ye that fear the Lord) to be men of Peace, and not of War, men willing to ſave, but not to deſtroy; manifeſt your ſelves to be what you would be eſteemed, by your ſelf-denyal; for the Lord will one day make inquiſition for blood, then bleſ<g ref="char:EOLhyphen"/>ſed are they that are guiltleſs.</p>
+            <p n="5">5. It is appointment of the Lord, and portion of his people, rather to be ſuffering with Chriſt, and for him (thereby ſhewing themſelves to be the children of a heavenly Father) than to be ploting and con<g ref="char:EOLhyphen"/>ſpiring how to make themſelvs Lords of the world, by endeavouring the undermining of others, under what pretence ſoever: in this particular, wherein we are moſt like our Lord, we endeavour to be at the fartheſt diſtance; it is altogether unbecoming, and I had almoſt ſaid inconſiſtent with the State of a Chriſtian to lay the foundation of his Liberty in the blood of others, but rather to ſuffer with patience as a Chriſtian: unleſs called unto it by a lawful au<g ref="char:EOLhyphen"/>thority.</p>
+            <p>God hath given no rule as a form of Government to any people in the world, but what he once did to Iſrael, which is no binding rule to other Nations; there is no man can from a direct rule in the Scrip<g ref="char:EOLhyphen"/>tures chalk out either Governours or a Government, or the baſis upon it ſhould be infallibly founded, that we may command, ſay thou haſt erred and tranſgreſ<g ref="char:EOLhyphen"/>ſed ſuch a rule; but the Foundation of Government is in God, and he pulleth down one and ſetteth up another, as he pleaſeth; he will ſometimes chaſtiſe
+<pb n="6" facs="tcp:41392:6"/>a people by the inſolencies of their Princes, and he will ſometimes chaſtiſe the Pride of Princes by their people, ſo both of theſe, 1 <hi>King.</hi> 12.13, 14, 16. and all this is of the Lord. Hence it is that the Saints are exhorted to ſubmit to magiſtrates becauſe they are ordained of the Lord, and the powers that be are ordained or ordered of God, <hi>Rom.</hi> 13. and who<g ref="char:EOLhyphen"/>ſoever reſiſteth reſiſteth the Ordinance of God, and if there be no Magiſterial power, but is ordained of God, then the Magiſterial Power and Authority of <hi>England</hi> is ordained of God, be the form and me<g ref="char:EOLhyphen"/>thod of it what it will, yet while it is in being we ought to ſubmit unto it. Here have been ſeveral go<g ref="char:EOLhyphen"/>vernments in this Commonwealth of late, and all had their honour in their place, and if more ſhould ariſe, thoſe ſubjected under it ought to obey, and not to ſeek deliverances by plottings and undermi<g ref="char:EOLhyphen"/>nings, but if it ſhould be evil to wait on the Lord, till he pleaſe to change it.</p>
+            <p>Ob. <hi>Then it had been the duty of all to have ſate ſtill in the beginning of the wars, and not to have oppoſed the authority that then was.</hi>
+            </p>
+            <p>
+               <hi>Anſ.</hi> There was a viſible face of authority (<hi>viz.</hi> the Parliament) calling for aſſiſtance, and all the procee<g ref="char:EOLhyphen"/>dings ſince, have either had a viſible face of a Magi<g ref="char:EOLhyphen"/>ſterial authority, countenancing it, or of an overpow<g ref="char:EOLhyphen"/>ring preſence of God, ſubjecting all unto it; but if a<g ref="char:EOLhyphen"/>ny ſhould ariſe to oppoſe the authority that now is, or elſe there is none in <hi>England,</hi> and of God too, or elſe it ſhould not be, and I truſt that it will anſwer Gods ends too, in ſome meaſure; but they that de<g ref="char:EOLhyphen"/>ſire to begin new troubles, have neither the face of
+<pb n="7" facs="tcp:41392:6"/>authority to call them to it, or countenance them in it, nor any viſible power of God manifeſt with them, that any might ſuppoſe God calling them to ſuch a work.</p>
+            <p n="7">7. The Lords people do yet enjoy more liberty under this Government than I do know any where promiſed in the Scriptures before the coming of Chriſt. This I am ſure, that the Lord hath promiſed, that in the world, for his Sake we ſhall have tribula<g ref="char:EOLhyphen"/>tion, but I do not know any promiſe of that liberty we now enjoy, neither have I faith enough to be<g ref="char:EOLhyphen"/>lieve that it will long continue, unleſs the day of Chriſts glorious appearing be nearer at hand, than ſome would have it. Oh therefore be not ſo earneſt after that which it may be thou canſt not attain, but be thankful. Diſcontentedneſs is an evident diſco<g ref="char:EOLhyphen"/>very of unthankfulneſs, its that which doth alto<g ref="char:EOLhyphen"/>gether unfit men for thankfulneſs, and indeed, me thinks, the mercies we enjoy at this day, calls aloud for thanfulneſs, and not ſo ſoon to forget his wonde<g ref="char:EOLhyphen"/>rous works; the thoughts of what we now enjoy would have been in our diſtreſs a refreſhing unto us; O fooliſh people and unwiſe, will ye thus requite the Lord for all his goodneſs to you, as to involve our Land in blood again, if you can: Oh ſtudy thankful<g ref="char:EOLhyphen"/>neſs rather, and how to improve the mercy you enjoy to the honour of God.</p>
+            <p n="8">8. Thankfulneſs to God for mercies received, is the ready way to obtain more; Oh therefore that men would praiſe the Lord for his goodneſs, and for his wonderful works done amongſt us; if any thing done by us may be a means by which God may con<g ref="char:EOLhyphen"/>tinue
+<pb n="8" facs="tcp:41392:7"/>our Liberty, and increaſe our mercies, it is our ſuitable and thankful walking in the enjoyment of mercy; and if any thing as a means in us deprive us of what we now enjoy it, twill be our unworthy and unthankful walking in the enjoyment of mercy; for this ſin God gives up men to vile affections, <hi>Rom.</hi> 1.21, 24. Oh ſet not your ſelves at a diſtance from mer<g ref="char:EOLhyphen"/>cy by trampling under foot the mercy you do or may enjoy.</p>
+            <p n="9">9. The cauſe of God in reſpect of civil liberty, and alſo of religion, is not ſo loſt as ſome pretend; as for Religion I need ſay no more than before; as for civil Liberties, propriety is maintained, and if God ſee it good, what is amiſs, in his time, ſhall be ſet in order; do not endeavour to force it, but rather pray for it, and wait with patience.</p>
+            <p n="10">10. Know that righteouſneſs will never be ſet up in the World, ſo fully as ſome deſire it, before the reign of the Righteous King, <hi>viz.</hi> the perſonal ap<g ref="char:EOLhyphen"/>pearing and reign of Chriſt, thoſe who do imagine a reign of Saints over the world before that day, do deceive themſelves; therefore be leſs in looking af<g ref="char:EOLhyphen"/>ter the Governors and Governments of this world, and more in the expectation of him that ſhall rule the world in righteouſneſs, and ſhall break in pieces the Oppreſſors, he that is the deſire of his Saints, and will anſwer all their wants.</p>
+            <p n="11">11. That as Chriſts Kingdom is not of this world, no more ſhould the Saints be; if the Lord by his pro<g ref="char:EOLhyphen"/>vidence give power and authority into any of their hands, they ſhould uſe it to his praiſe, but not impa<g ref="char:EOLhyphen"/>tiently hunt after it, undermine others to attain it,
+<pb n="9" facs="tcp:41392:7"/>nor imbrue their hands in blood for the attaining of a Civil liberty, eſpecially being without authority, to endeavour the doing of it in the undermining of the Authority eſtabliſhed, ſeek not too much after the Kingdoms of the world before the time; as Chriſt is content without it (in the manifeſtation) ſo be ye alſo.</p>
+            <p n="12">12. If you ſuppoſe a wrong, or an evil done by thoſe in preſent power, your duty is not to ſeek re<g ref="char:EOLhyphen"/>venge, but to leave it to the Lord, who will judge e<g ref="char:EOLhyphen"/>very man according to his Works, therefore avenge not your ſelves.</p>
+            <p n="13">13. It is the duty, and ſhould be the care, of the Saints, not to ſuffer as evil doers, and buſie bodies in other mens matters, if they do ſo <hi>God</hi> will have no honor by it, nor themſelves comfort in it, but if they ſuffer for wel-doing happy are they, 1 <hi>Pet</hi> 4.14, 15.</p>
+            <p n="14">14. There is no promiſe of a bleſſing upon ſuch a practiſe; ſuch an acting as ſeems to be in the minds of ſome have neither precept or preſident for it, or promiſe unto; and with what peace of conſcience, or expectation of a bleſſing they ſhould under take it, I know not; therefore let ſuch know, they muſt re<g ref="char:EOLhyphen"/>pent, and, it may be, when it is to late.</p>
+            <p n="15">15. Saints ſhould ſo act and ſo walk as that they may be found of Chriſt in peace when be comes, and not to be ſmiting one another, or raiſing or making combuſtions in the world, but rather to be doing the will of the Lord, that Chriſt may ſay unto them, when he comes, <hi>well done good and faithful Servant;</hi> and not ſo walk as to be accounted evil ſervants, and unprofitable Servants, their account will be ſad.</p>
+            <p n="16">16. Suppoſe the Lord hath purpoſed to exalt this
+<pb n="10" facs="tcp:41392:8"/>man, (who is now Lord Protector) over theſe nati<g ref="char:EOLhyphen"/>ons, truly then all that will oppoſe muſt be broken in pieces, and the actions of <hi>God</hi> ſpeak very much this way; whom <hi>God</hi> will exalt, who can disthrone; when <hi>God</hi> would make <hi>Nabuchadnezzar</hi> King over the World, the Nations that would not ſubmit unto him muſt be broken, <hi>Jer.</hi> 27. Conſider what I ſay, and fear to oppoſe, leſt you fight againſt <hi>God.</hi>
+            </p>
+            <p n="17">17. Let all honeſt men, who fear the Lord, rather ſubmit unto the Government, and join in with it, and pray for it, that ſo in its peaceable rule they may have peace, and what they ſee amiſs, ſeek a reformation in a way of Love, and not in a way of wrath; caſt a<g ref="char:EOLhyphen"/>way all bitterneſs and frowardneſs, and evil-ſpeaking from you; as God hath given you a Governor (though againſt your will) who is willing to rule for your good, and to protect you in your Liberties, Oh, make his heart and his hands ſtrong for that work by your prayers for him, and your cleaving to him, ſo will God have the glory and you the Conſolation.</p>
+            <p n="18">18. But if any will be perverſe and perſiſt in a way of conteſting, and adventure the beginning of new ſtirs, I ſay no more, but firſt, that I have diſcharged my duty and conſcience, and ſecondly, my ſoul come not thou into their ſecrets, neither have fellowſhip with them in their waies, for it tends to confuſion, and deſtruction will be the end thereof.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:41392:8"/>
+         </div>
+      </body>
+   </text>
+</TEI>
